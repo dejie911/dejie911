@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dejie911
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on python and artificial intelligence(A.I) starter kit coding. 
+- 💞️ I’m looking to collaborate on python projects and artificial intelligence(A.I) starter kit coding. 
 - 📫 How to reach me: dejiadedosu@gmail.com
 
 <!---
